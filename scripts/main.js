@@ -10,7 +10,7 @@
  */
 
 // Die Modul-ID - muss exakt der "id" aus der module.json entsprechen
-const MODULE_ID = "hello-foundry";
+const MODULE_ID = "foundry-vtt-sample-module-new";
 
 /* -------------------------------------------- */
 /*  Hook: init                                  */

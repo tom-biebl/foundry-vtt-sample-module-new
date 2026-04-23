@@ -1,5 +1,5 @@
 {
-  "id": "hello-foundry",
+  "id": "foundry-vtt-sample-module-new",
   "title": "Hello Foundry",
   "description": "Ein einfaches Beispiel-Modul, das einen /hello Chat-Befehl hinzufuegt. Gedacht zum Lernen der Foundry VTT Modul-Entwicklung.",
   "version": "1.0.0",
