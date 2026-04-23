@@ -1,0 +1,41 @@
+{
+  "id": "hello-foundry",
+  "title": "Hello Foundry",
+  "description": "Ein einfaches Beispiel-Modul, das einen /hello Chat-Befehl hinzufuegt. Gedacht zum Lernen der Foundry VTT Modul-Entwicklung.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "authors": [
+    {
+      "name": "Tom Biebl",
+      "email": "tom.biebl@gmx.de"
+    }
+  ],
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "styles": [
+    "styles/style.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "lang/de.json"
+    }
+  ],
+  "url": "https://github.com/tom-biebl/foundry-vtt-sample-module-new",
+  "manifest": "https://github.com/tom-biebl/foundry-vtt-sample-module-new/releases/latest/download/module.json",
+  "download": "https://github.com/tom-biebl/foundry-vtt-sample-module-new/releases/latest/download/module.zip",
+  "readme": "https://github.com/tom-biebl/foundry-vtt-sample-module-new/blob/main/README.md",
+  "bugs": "https://github.com/tom-biebl/foundry-vtt-sample-module-new/issues",
+  "license": "MIT"
+}

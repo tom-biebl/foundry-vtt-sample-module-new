@@ -1,0 +1,8 @@
+/* Hello Foundry - optionale Styles */
+
+/* Beispiel: Gruss-Nachrichten des Moduls farblich hervorheben.
+   (Aktuell nicht aktiv eingebunden - als Demo wie Styling funktioniert.) */
+.hello-foundry-greeting {
+    color: #4a9eff;
+    font-weight: bold;
+}

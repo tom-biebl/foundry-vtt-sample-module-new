@@ -1,0 +1,17 @@
+{
+  "HELLO_FOUNDRY": {
+    "Settings": {
+      "Greeting": {
+        "Name": "Greeting Text",
+        "Hint": "The text used when someone types /hello in chat."
+      },
+      "Whisper": {
+        "Name": "Whisper Mode",
+        "Hint": "If enabled the greeting is whispered only to you instead of being posted publicly."
+      }
+    },
+    "Notifications": {
+      "Ready": "Hello Foundry module is ready! Type /hello in chat."
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "HELLO_FOUNDRY": {
+    "Settings": {
+      "Greeting": {
+        "Name": "Begruessungstext",
+        "Hint": "Der Text, der verwendet wird, wenn jemand /hello in den Chat eingibt."
+      },
+      "Whisper": {
+        "Name": "Fluester-Modus",
+        "Hint": "Wenn aktiv wird die Begruessung nur an dich gefluestert statt oeffentlich gepostet."
+      }
+    },
+    "Notifications": {
+      "Ready": "Hello Foundry Modul ist bereit! Tippe /hello in den Chat."
+    }
+  }
+}
